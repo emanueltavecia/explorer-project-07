@@ -2,7 +2,7 @@
 
 Project developed on Rocketseat's Explorer course
 
-**Photoblog is a landing page designed to learn basic web development concepts**
+**Photoblog is a blog designed to learn basic web development concepts**
 
 ![Photoblog project screenshot](./.github/screenshot.png)
 
